@@ -4,8 +4,6 @@ import jakarta.persistence.*;
 import jpabook.jpashop.domain.Item.Item;
 import lombok.Getter;
 import lombok.Setter;
-import org.apache.logging.log4j.util.Lazy;
-import org.hibernate.annotations.Fetch;
 
 import java.util.ArrayList;
 import java.util.List;
